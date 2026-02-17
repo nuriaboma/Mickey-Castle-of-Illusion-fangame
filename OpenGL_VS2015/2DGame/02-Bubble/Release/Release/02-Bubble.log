@@ -1,0 +1,90 @@
+﻿  BolaBoss.cpp
+  Boss.cpp
+  Credits.cpp
+  Enemy.cpp
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(42,14): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(52,38): warning C4244: '+=': conversión de 'T' a 'T'; posible pérdida de datos
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(52,38): warning C4244:         with
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(52,38): warning C4244:         [
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(52,38): warning C4244:             T=float
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(52,38): warning C4244:         ]
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(52,38): warning C4244:         and
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(52,38): warning C4244:         [
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(52,38): warning C4244:             T=int
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(52,38): warning C4244:         ]
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(83,32): warning C4244: '-=': conversión de 'float' a 'T'; posible pérdida de datos
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(83,32): warning C4244:         with
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(83,32): warning C4244:         [
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(83,32): warning C4244:             T=int
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy.cpp(83,32): warning C4244:         ]
+  Enemy2.cpp
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy2.cpp(99,32): warning C4244: '-=': conversión de 'double' a 'T'; posible pérdida de datos
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy2.cpp(99,32): warning C4244:         with
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy2.cpp(99,32): warning C4244:         [
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy2.cpp(99,32): warning C4244:             T=float
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy2.cpp(99,32): warning C4244:         ]
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy2.cpp(107,31): warning C4244: '+=': conversión de 'double' a 'T'; posible pérdida de datos
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy2.cpp(107,31): warning C4244:         with
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy2.cpp(107,31): warning C4244:         [
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy2.cpp(107,31): warning C4244:             T=float
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Enemy2.cpp(107,31): warning C4244:         ]
+  EscollirNivells.cpp
+  Game.cpp
+  HUD.cpp
+  Instructions.cpp
+  main.cpp
+  Menu.cpp
+  Player.cpp
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(737,18): warning C4244: '+=': conversión de 'float' a 'T'; posible pérdida de datos
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(737,18): warning C4244:         with
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(737,18): warning C4244:         [
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(737,18): warning C4244:             T=int
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(737,18): warning C4244:         ]
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(742,18): warning C4244: '-=': conversión de 'float' a 'T'; posible pérdida de datos
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(742,18): warning C4244:         with
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(742,18): warning C4244:         [
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(742,18): warning C4244:             T=int
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(742,18): warning C4244:         ]
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(746,17): warning C4244: '-=': conversión de 'float' a 'T'; posible pérdida de datos
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(746,17): warning C4244:         with
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(746,17): warning C4244:         [
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(746,17): warning C4244:             T=int
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Player.cpp(746,17): warning C4244:         ]
+  Practica.cpp
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Practica.cpp(133,17): warning C4244: 'inicializando': conversión de 'T' a 'int'; posible pérdida de datos
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Practica.cpp(133,17): warning C4244:         with
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Practica.cpp(133,17): warning C4244:         [
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Practica.cpp(133,17): warning C4244:             T=float
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Practica.cpp(133,17): warning C4244:         ]
+  Rock.cpp
+  Scene.cpp
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Scene.cpp(212,17): warning C4244: 'inicializando': conversión de 'T' a 'int'; posible pérdida de datos
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Scene.cpp(212,17): warning C4244:         with
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Scene.cpp(212,17): warning C4244:         [
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Scene.cpp(212,17): warning C4244:             T=float
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Scene.cpp(212,17): warning C4244:         ]
+  SeleccioDificultat.cpp
+  Shader.cpp
+  ShaderProgram.cpp
+  Sprite.cpp
+  Texture.cpp
+  Compilando...
+  TileMap.cpp
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\TileMap.cpp(382,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\TileMap.cpp(419,27): warning C4244: 'return': conversión de 'T' a 'float'; posible pérdida de datos
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\TileMap.cpp(419,27): warning C4244:         with
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\TileMap.cpp(419,27): warning C4244:         [
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\TileMap.cpp(419,27): warning C4244:             T=int
+D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\TileMap.cpp(419,27): warning C4244:         ]
+SOIL.lib(SOIL.obj) : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  968 of 970 functions (99.8%) were compiled, the rest were copied from previous compilation.
+    187 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+SOIL.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB '' con 'SOIL.lib(image_DXT.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(image_helper.obj) : warning LNK4099: no se encontró PDB '' con 'SOIL.lib(image_helper.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(SOIL.obj) : warning LNK4099: no se encontró PDB '' con 'SOIL.lib(SOIL.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: no se encontró PDB '' con 'SOIL.lib(stb_image_aug.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  02-Bubble.vcxproj -> D:\Uni\EntregaVJ\directoriEntrega\OpenGL_VS2015\OpenGL_VS2015\2DGame\02-Bubble\Release\02-Bubble.exe

@@ -1,0 +1,7 @@
+﻿  Scene.cpp
+D:\Uni\EntregaVJ\OpenGL_VS2015_30_10\OpenGL_VS2015_29_10\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Scene.cpp(212,17): warning C4244: 'inicializando': conversión de 'T' a 'int'; posible pérdida de datos
+D:\Uni\EntregaVJ\OpenGL_VS2015_30_10\OpenGL_VS2015_29_10\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Scene.cpp(212,17): warning C4244:         with
+D:\Uni\EntregaVJ\OpenGL_VS2015_30_10\OpenGL_VS2015_29_10\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Scene.cpp(212,17): warning C4244:         [
+D:\Uni\EntregaVJ\OpenGL_VS2015_30_10\OpenGL_VS2015_29_10\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Scene.cpp(212,17): warning C4244:             T=float
+D:\Uni\EntregaVJ\OpenGL_VS2015_30_10\OpenGL_VS2015_29_10\OpenGL_VS2015\2DGame\02-Bubble\02-Bubble\Scene.cpp(212,17): warning C4244:         ]
+  02-Bubble.vcxproj -> D:\Uni\EntregaVJ\OpenGL_VS2015_30_10\OpenGL_VS2015_29_10\OpenGL_VS2015\2DGame\02-Bubble\Debug\02-Bubble.exe
